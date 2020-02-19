@@ -5,5 +5,5 @@ Requires [ffmpeg](https://ffmpeg.zeranoe.com/builds/).
 
 Install requirements: `pip install -r requirments.txt`
 
-To run: `python generator.py /path/to/my/source/dir` `path/to/output/dir`
+To run: `python generator.py /path/to/my/source/dir path/to/output/dir`
 
